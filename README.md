@@ -1,3 +1,5 @@
+![Logo.patterns.pl](https://logo.patterns.pl/1/cover.png)
+
 # www application.pl
 
 + [Landing page: www.patterns.pl](https://www.patterns.pl/)
