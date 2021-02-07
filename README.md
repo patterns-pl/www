@@ -1,4 +1,4 @@
-![Logo.patterns.pl](https://logo.patterns.pl/1/cover.png)
+![Logo.patterns.pl](https://logo.patterns.pl/2/cover.png)
 
 # www application.pl
 
